@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.searchBar {
+  padding: 10px 10px 10px 10px;
+  margin: 10px 10px 10px 10px;
+  color: blue;
+}
+.displayUserInfo {
+  margin: 10px 10px 10px 10px;
+  width: 1000px;
+  height: 1000px;
+  border: 5px solid rgb(128, 0, 117);
+  padding: 50px;
+  margin: 20px;
+  position: center;
+  text-align: center;
+}
